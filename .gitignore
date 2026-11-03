@@ -1,0 +1,10 @@
+.venv/
+.venv-linux/
+__pycache__/
+.pytest_cache/
+data/
+outputs/
+*.log
+master-screen.png
+bigdata-project.tar.gz
+instacart-results.tar.gz

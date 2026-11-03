@@ -1,0 +1,4 @@
+pyspark==3.5.9
+setuptools>=70,<85
+streamlit>=1.36,<2
+pandas>=2.0,<3
